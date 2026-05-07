@@ -1,0 +1,1 @@
+![building-api-for-longevity-spec-driven-development](https://blog.nginx.org/blog/building-api-for-longevity-spec-driven-development)
